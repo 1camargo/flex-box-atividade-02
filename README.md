@@ -1,2 +1,2 @@
 # flex-box-atividade-02
-Reso
+Resolvendo o desafio proposto em sala
